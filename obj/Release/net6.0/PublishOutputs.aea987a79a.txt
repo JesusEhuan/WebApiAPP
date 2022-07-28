@@ -1,0 +1,17 @@
+C:\ReposGit\WebApiPenu2\obj\Release\net6.0\PubTmp\Out\WebApiPenu2.exe
+C:\ReposGit\WebApiPenu2\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\ReposGit\WebApiPenu2\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\ReposGit\WebApiPenu2\obj\Release\net6.0\PubTmp\Out\WebApiPenu2.dll
+C:\ReposGit\WebApiPenu2\obj\Release\net6.0\PubTmp\Out\WebApiPenu2.deps.json
+C:\ReposGit\WebApiPenu2\obj\Release\net6.0\PubTmp\Out\WebApiPenu2.runtimeconfig.json
+C:\ReposGit\WebApiPenu2\obj\Release\net6.0\PubTmp\Out\WebApiPenu2.pdb
+C:\ReposGit\WebApiPenu2\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\ReposGit\WebApiPenu2\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\ReposGit\WebApiPenu2\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ReposGit\WebApiPenu2\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ReposGit\WebApiPenu2\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\ReposGit\WebApiPenu2\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\ReposGit\WebApiPenu2\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\ReposGit\WebApiPenu2\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\ReposGit\WebApiPenu2\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ReposGit\WebApiPenu2\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
