@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "2z0+fDXQ1e5pihcnrZ7DWhQwUcOqem1wNKrBKVPKKfDCyJfUwW1abkDYAYgtJa3QxpaP9fcu5d/YigYGT6Pdtw==",
+  "dgSpecHash": "vxfK55UsJyCUqRhFOxqWitOs2aboNxUMW7ltKcteLtMBU2g0EQAajXQJCCafbbNvRlj8A75lyc64Fz8OoEu2PA==",
   "success": true,
   "projectFilePath": "C:\\ReposGit\\WebApiPenu2\\WebApiPenu2.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jehuan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\jehuan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\jehuan\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512",
+    "C:\\Users\\jehuan\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.22.0\\microsoft.identitymodel.jsonwebtokens.6.22.0.nupkg.sha512",
+    "C:\\Users\\jehuan\\.nuget\\packages\\microsoft.identitymodel.logging\\6.22.0\\microsoft.identitymodel.logging.6.22.0.nupkg.sha512",
+    "C:\\Users\\jehuan\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.22.0\\microsoft.identitymodel.tokens.6.22.0.nupkg.sha512",
     "C:\\Users\\jehuan\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\jehuan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\jehuan\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
@@ -17,7 +22,9 @@
     "C:\\Users\\jehuan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
     "C:\\Users\\jehuan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "C:\\Users\\jehuan\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
+    "C:\\Users\\jehuan\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.22.0\\system.identitymodel.tokens.jwt.6.22.0.nupkg.sha512",
     "C:\\Users\\jehuan\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\jehuan\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
     "C:\\Users\\jehuan\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
   ],
   "logs": []
